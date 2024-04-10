@@ -3,7 +3,7 @@
     overflow: visible;
     max-width: 1560px;
     max-height: 1200px;
-    z-index: 2;
+    z-index: 1;
 }
 
 .clickable {
