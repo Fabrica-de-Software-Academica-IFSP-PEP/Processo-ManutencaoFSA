@@ -86,6 +86,7 @@ a:hover {
     left: 0px;
     margin: 20px;
     padding: 10px;
+    z-index: 2;
 
     border-width: 1px;
     border-radius: 8px;
